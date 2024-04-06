@@ -1,0 +1,11 @@
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\bin\Debug\net8.0\comerce.aplication.deps.json
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\bin\Debug\net8.0\comerce.aplication.dll
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\bin\Debug\net8.0\comerce.aplication.pdb
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\comerce.aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\comerce.aplication.AssemblyInfoInputs.cache
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\comerce.aplication.AssemblyInfo.cs
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\comerce.aplication.csproj.CoreCompileInputs.cache
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\comerce.aplication.dll
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\refint\comerce.aplication.dll
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\comerce.aplication.pdb
+D:\DEV\EcomerceAPI\comerce.Api\comerce.aplication\obj\Debug\net8.0\ref\comerce.aplication.dll
